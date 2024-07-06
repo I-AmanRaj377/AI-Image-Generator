@@ -7,10 +7,3 @@ Utilizes the OpenAI API and the DALL-E model to generate original images based o
 # API
 [Open AI](https://openai.com/api/)
 
-#Building
-
-In order to build this you must have git installed. Paste the following command in a directory of your choice. Alternatively you can download the code as a .zip file and extract it.
-
-[](git clone https://github.com/JesseKartabani/ai-image-gen.git
-cd ai-image-gen
-npm install)
